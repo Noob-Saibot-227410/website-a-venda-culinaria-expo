@@ -1,16 +1,16 @@
-![img1 - Copia](https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/504d394b-e5ab-43a0-ae86-991a4cbbaa84)
+## **WEBSITE PARA VENDA CULINARIA-SERVICE** 🍞🍾🍎🎂🍹
 
-## 🍲 **WEBSITE PARA VENDA CULINARIA-SERVICE**🍹
+![img1 - Copia](https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/504d394b-e5ab-43a0-ae86-991a4cbbaa84)
 
 <hr>
 
-CULINARIA-SERVICE - Plataforma para Setor Alimentício
+CULINARIA-SERVICE - WEBSITE SETOR ALIMENTICIO
 
 Um website completo para suas vendas de comidas e bebidas. O CULINARIA-SERVICE é uma plataforma atraente e responsiva, ideal para novos negócios. Personalize de acordo com sua marca e encante seus clientes. Perfeito para chefs, restaurantes, confeitarias e empreendedores. Impulsione suas vendas agora!
 
 <hr>
 
-## 🍲 **DEMONSTRAÇÃO RÁPIDA CULINARIA-SERVICE**🍹
+## **DEMONSTRAÇÃO RÁPIDA**🍹🍲 
 
 <br>
 
@@ -32,12 +32,14 @@ https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/062c79b0-130f-4f8
 
 <hr>
 
-📧 Para adquirir o CULINARIA-SERVICE e alavancar seu negócio, entre em contato: 
+## COMPRA DO PROJETO 💵
+
+Para adquirir este projeto e alavancar seu negócio finalize sua compra, entre em contato: 
 
 <br>
 
 <div align="center">
-  <a href="mailto:devops.davi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:devops.davi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/davi-santos-cardoso-da-silva-b4678524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://linktr.ee/devops_davi" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23FF5722?style=for-the-badge" alt="Linktree"></a>
   <a href="https://gitlab.com/Noob-Saibot-227410" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
@@ -46,13 +48,15 @@ https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/062c79b0-130f-4f8
 
 <br>
 
-🌐 Saiba mais em: https://venda-rapida-dnells.web.app/
+🌐 Gostou deste projeto mas não é o tema que você quer?
+
+<p> Veja outros projetos no site: <a href = https://venda-rapida-dnells.web.app/ target="_blank"> Venda Rápida Dnells</a> <p>
 
 *Comece sua jornada de sucesso no mundo culinário com o CULINARIA-EXPO e encante seus clientes com uma apresentação irresistível de seus produtos!* 🍽️🎉
 
 <hr>
 
-## Tecnologias ⚙️
+## TECNOLOGIAS ⚙️
 
 > Projeto utilizado as seguintes tecnologias:
 
@@ -88,7 +92,11 @@ https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/062c79b0-130f-4f8
 </table>
  
  <hr>
- 
-  ### Para conhecer outros projetos Acesse!
+
+## OBRIGADO PELA LEITURA 📒
+
+##### Não esqueça de nos ajudar de coração dando estrelinha para o repositório!
+
+##### Para conhecer outros projetos não esqueça Acesse!
  
 https://venda-rapida-dnells.web.app/
