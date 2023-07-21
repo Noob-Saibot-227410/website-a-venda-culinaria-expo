@@ -14,14 +14,6 @@ Um website completo para suas vendas de comidas e bebidas. O CULINARIA-SERVICE Ã
 
 <br>
 
-https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/4d65cce6-46b3-4ae7-8082-06ca3c8bffdc
-
-<br>
-
-![img1](https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/d7cb1527-a433-4b51-935f-f49d7025f032)
-
-<br>
-
 https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/062c79b0-130f-4f89-a6f4-40f1da94e503
 
 <br>
