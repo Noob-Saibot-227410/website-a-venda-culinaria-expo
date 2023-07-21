@@ -1,29 +1,40 @@
-## 🍲 **CULINARIA-EXPO**🍹
-### 🍲 Projeto Pronto para Vendas de Comidas e Bebidas! 🍲
+![img1 - Copia](https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/504d394b-e5ab-43a0-ae86-991a4cbbaa84)
 
-##### Buscando uma solução completa e prática para exibir e destacar seus produtos culinários? Apresentamos o CULINARIA-EXPO, um site à venda que foi cuidadosamente projetado para facilitar a apresentação de vendas de comidas e bebidas. Com esta plataforma, você terá tudo o que precisa para oferecer uma experiência atraente e profissional aos seus clientes em potencial.
+## 🍲 **WEBSITE PARA VENDA CULINARIA-SERVICE**🍹
 
-**Recursos e Benefícios:**
+<hr>
 
-✔️ **Design Atraente:** O CULINARIA-EXPO possui um design moderno e cativante, garantindo que seus pratos e bebidas sejam apresentados de forma atraente e apetitosa.
+CULINARIA-SERVICE - Plataforma para Setor Alimentício
 
-✔️ **Exibição de Produtos:** Apresente sua variedade de comidas e bebidas de maneira organizada e envolvente, com fotos, descrições e informações relevantes para seus clientes.
+Um website completo para suas vendas de comidas e bebidas. O CULINARIA-SERVICE é uma plataforma atraente e responsiva, ideal para novos negócios. Personalize de acordo com sua marca e encante seus clientes. Perfeito para chefs, restaurantes, confeitarias e empreendedores. Impulsione suas vendas agora!
 
-✔️ **Facilidade de Navegação:** A plataforma foi projetada com foco na experiência do usuário, tornando a navegação intuitiva e facilitando a busca pelos produtos desejados.
+<hr>
 
-✔️ **Responsivo e Adaptável:** Seu site CULINARIA-EXPO será totalmente responsivo, adaptando-se a dispositivos móveis e tablets, proporcionando uma experiência consistente em todas as telas.
+## 🍲 **DEMONSTRAÇÃO RÁPIDA CULINARIA-SERVICE**🍹
 
-✔️ **Ideal para Novos Negócios:** Se você está iniciando seu negócio de comida ou bebida, o CULINARIA-EXPO é a plataforma perfeita para começar com o pé direito e conquistar seus clientes.
+<br>
 
-✔️ **Fácil Customização:** Personalize o site de acordo com a identidade visual da sua marca, tornando-o verdadeiramente único e alinhado com sua proposta.
+https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/4d65cce6-46b3-4ae7-8082-06ca3c8bffdc
 
-✔️ **Suporte Técnico Inicial:** Oferecemos suporte técnico inicial para garantir que você possa configurar e lançar o site sem preocupações.
+<br>
 
-✔️ **Oportunidade de Crescimento:** Com a base sólida do CULINARIA-EXPO, você poderá expandir e adicionar novas funcionalidades conforme seu negócio cresce.
+![img1](https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/d7cb1527-a433-4b51-935f-f49d7025f032)
 
-*Seja você um chef, restaurante, confeitaria ou empreendedor do setor alimentício, o CULINARIA-EXPO é a plataforma que vai impulsionar suas vendas e encantar seus clientes.*
+<br>
 
-📧 Para adquirir o CULINARIA-EXPO e alavancar seu negócio, entre em contato: 
+https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/062c79b0-130f-4f89-a6f4-40f1da94e503
+
+<br>
+
+![img2](https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/df745c24-31fd-41a6-90f6-8c7b5146f86e)
+
+<br>
+
+<hr>
+
+📧 Para adquirir o CULINARIA-SERVICE e alavancar seu negócio, entre em contato: 
+
+<br>
 
 <div align="center">
   <a href="mailto:devops.davi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -33,12 +44,13 @@
   <a href="https://t.me/11976161682" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 
-
+<br>
 
 🌐 Saiba mais em: https://venda-rapida-dnells.web.app/
 
 *Comece sua jornada de sucesso no mundo culinário com o CULINARIA-EXPO e encante seus clientes com uma apresentação irresistível de seus produtos!* 🍽️🎉
 
+<hr>
 
 ## Tecnologias ⚙️
 
@@ -58,8 +70,6 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-  </tr>
-  <tr>
       <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -77,7 +87,8 @@
  </tr>
 </table>
  
+ <hr>
  
-  ### Para conhecer outros projetos entre abaixo!
+  ### Para conhecer outros projetos Acesse!
  
 https://venda-rapida-dnells.web.app/
