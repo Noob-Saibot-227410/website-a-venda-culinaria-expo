@@ -38,7 +38,6 @@ Para adquirir este projeto e alavancar seu negócio finalize sua compra, entre e
   <a href="https://wa.me/5511976161682?text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%232CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
-
 <br>
 
 🌐 Gostou deste projeto mas não é o tema que você quer?
