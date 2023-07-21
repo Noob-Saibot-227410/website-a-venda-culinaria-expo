@@ -26,6 +26,16 @@ https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/062c79b0-130f-4f8
 
 ## COMPRA DO PROJETO 💵
 
+<br>
+
+## Planos de Venda:
+
+1. **Projeto Pronto + Hospedagem**: Oferecemos um projeto completo, já adequado ao seu negócio, acompanhado da hospedagem. Tudo pronto para ser utilizado imediatamente.
+
+2. **Venda do Código do Projeto**: Caso prefira, é possível adquirir apenas o código do projeto. Após a compra, você terá total controle sobre o próximo passo.
+
+<br>
+
 Para adquirir este projeto e alavancar seu negócio finalize sua compra, entre em contato: 
 
 <br>
