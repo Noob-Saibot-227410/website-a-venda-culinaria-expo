@@ -99,4 +99,4 @@ Para adquirir este projeto e alavancar seu negócio finalize sua compra, entre e
 
 ##### Para conhecer outros projetos não esqueça Acesse!
  
-https://venda-rapida-dnells.web.app/
+<a href = https://venda-rapida-dnells.web.app/ target="_blank"> Venda Rápida Dnells</a>
