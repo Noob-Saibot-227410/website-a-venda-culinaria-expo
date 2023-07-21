@@ -31,11 +31,11 @@ Para adquirir este projeto e alavancar seu negócio finalize sua compra, entre e
 <br>
 
 <div align="center">
-  <a href="mailto:devops.davi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:devops.davi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/davi-santos-cardoso-da-silva-b4678524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://linktr.ee/devops_davi" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23FF5722?style=for-the-badge" alt="Linktree"></a>
   <a href="https://gitlab.com/Noob-Saibot-227410" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <a href="https://wa.me/5511976161682?text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%232CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/5511976161682?text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20GitHub." target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-WhatsApp-%232CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
 <br>
