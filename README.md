@@ -1,6 +1,6 @@
 ## **WEBSITE PARA VENDA CULINARIA-SERVICE** 🍞🍾🍎🎂🍹
 
-![img1 - Copia](https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/504d394b-e5ab-43a0-ae86-991a4cbbaa84)
+![255286260-504d394b-e5ab-43a0-ae86-991a4cbbaa84](https://github.com/Noob-Saibot-227410/website-a-venda-culinaria-service/assets/115899706/a5c98376-6411-4db4-a8a1-ffd5fc4f3734)
 
 <hr>
 
@@ -14,7 +14,7 @@ Um website completo para suas vendas de comidas e bebidas. O CULINARIA-SERVICE �
 
 <br>
 
-https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/062c79b0-130f-4f89-a6f4-40f1da94e503
+https://github.com/Noob-Saibot-227410/website-a-venda-culinaria-service/assets/115899706/26caf357-a1bd-40fa-bdeb-9e45cac453a1
 
 <br>
 
@@ -103,11 +103,3 @@ Para adquirir este projeto e alavancar seu negócio finalize sua compra, entre e
 ##### Para conhecer outros projetos não esqueça Acesse!
 
 <a href = https://venda-rapida-dnells.web.app/ target="_blank"> Venda Rápida Dnells</a>
-
-<hr>
-
-## AUTOR NOOB-SAIBOT-227410 📒
-
-<div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;">
-  <img src="https://github.com/Noob-Saibot-227410/ProgDev/assets/115899706/79d2c073-9f0d-470e-bfa5-0b0642c1ef9a.png" alt="Sua Foto" style="width: 100%; height: 100%; object-fit: cover;">
-</div>
